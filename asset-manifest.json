@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/avion-citizenship/static/css/main.4a89a734.css",
+    "main.js": "/avion-citizenship/static/js/main.163599e9.js",
+    "static/media/SaintLuciaSlide.png": "/avion-citizenship/static/media/SaintLuciaSlide.ad57a351423e50d969d4.png",
+    "static/media/AntiguaSlide.png": "/avion-citizenship/static/media/AntiguaSlide.9dcc7328057fdccaa57b.png",
+    "static/media/GreeceSlide.png": "/avion-citizenship/static/media/GreeceSlide.fefcf8f884ac7d457b97.png",
+    "static/media/DominicaSlide.png": "/avion-citizenship/static/media/DominicaSlide.4cb7cede7a7075620bd7.png",
+    "static/media/GrenadaSlide.png": "/avion-citizenship/static/media/GrenadaSlide.4a11345a69e683c0eb94.png",
+    "static/media/NevisSlide.png": "/avion-citizenship/static/media/NevisSlide.665aa7f1e8ee1f25de3a.png",
+    "static/media/VanuatuSlide.png": "/avion-citizenship/static/media/VanuatuSlide.5772badff863c0501915.png",
+    "static/media/cypursSlide.png": "/avion-citizenship/static/media/cypursSlide.d21f1210389aa04c74c5.png",
+    "static/media/cyprusProgram.png": "/avion-citizenship/static/media/cyprusProgram.d43d1026b0645e5d08ee.png",
+    "static/media/logo1.png": "/avion-citizenship/static/media/logo1.57bcddbeda7f5c1f4b18.png",
+    "static/media/landing.jpg": "/avion-citizenship/static/media/landing.5baa6198a2af283086de.jpg",
+    "static/media/grenadaProgram.jpg": "/avion-citizenship/static/media/grenadaProgram.8719c39676239f5569f1.jpg",
+    "static/media/about1.png": "/avion-citizenship/static/media/about1.35741d2bdc7ead36b5d3.png",
+    "static/media/about2.png": "/avion-citizenship/static/media/about2.72b29bcdfc9173b016e7.png",
+    "static/media/AntiguaPrograms.jpg": "/avion-citizenship/static/media/AntiguaPrograms.a6f45498bbc619c281f2.jpg",
+    "static/media/vanuatuProgram.jpg": "/avion-citizenship/static/media/vanuatuProgram.be0914aa2fc88265fd2a.jpg",
+    "static/media/LuciaProgram.jpg": "/avion-citizenship/static/media/LuciaProgram.4ed91f06f85503e70ea5.jpg",
+    "static/media/logo2.png": "/avion-citizenship/static/media/logo2.15128da95c74c16dfe3a.png",
+    "static/media/dominicaProgram.jpg": "/avion-citizenship/static/media/dominicaProgram.bb5fbedd5b49d6314744.jpg",
+    "static/media/greeceProgram.jpg": "/avion-citizenship/static/media/greeceProgram.6a7ca372058355cd3de9.jpg",
+    "static/media/NevisProgram.jpeg": "/avion-citizenship/static/media/NevisProgram.b0486dc2a46517cb60af.jpeg",
+    "static/media/Dominica.jpg": "/avion-citizenship/static/media/Dominica.05a5edab3dd1dbb83c41.jpg",
+    "static/media/Greece.jpg": "/avion-citizenship/static/media/Greece.2fbb3d182460692e2b3d.jpg",
+    "static/media/Cyprus.png": "/avion-citizenship/static/media/Cyprus.9f5feab61eed979be242.png",
+    "static/media/Grenada.png": "/avion-citizenship/static/media/Grenada.5beddfd80046e1d581d1.png",
+    "static/media/flag.jpg": "/avion-citizenship/static/media/flag.b35c2ef59ebfcb72f6be.jpg",
+    "index.html": "/avion-citizenship/index.html",
+    "main.4a89a734.css.map": "/avion-citizenship/static/css/main.4a89a734.css.map",
+    "main.163599e9.js.map": "/avion-citizenship/static/js/main.163599e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a89a734.css",
+    "static/js/main.163599e9.js"
+  ]
+}
